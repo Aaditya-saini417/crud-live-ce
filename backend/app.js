@@ -11,6 +11,8 @@ app.use(cors())
 // const readdata=async ()=>{
 //     users=JSON.parse(await fs.readFile('./data.json','utf8'))
 // }
+
+
 // const writedata=async ()=>{
 //    await fs.writeFile('./data.json',JSON.stringify(users))
 // }
