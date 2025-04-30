@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 import Delete from './components/Delete'
-import Register from './components/Register'
+import Register from './components/Resister'
 import Update from './components/Update'
 import View from './components/View'
 const App = () => {
